@@ -8,5 +8,5 @@ diseñar sombra con css cap 44
 
 comandos git para subir a repositorio
 git add .
-git commit -m "mi primer commit"
+git commit -m "agregue una classe css"
 git push -u origin main
